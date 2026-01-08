@@ -9,5 +9,6 @@ public class A_New_Password {
             char ch = (char) ('a' + (i % k));
             System.out.print(ch);
         }
+        sc.close();
     }
 }
